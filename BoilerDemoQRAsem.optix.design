@@ -78,6 +78,18 @@ Project:
    Uri: 'urn:FTOptix:NetLogic'
    Module: FTOptix.NetLogic
    Version: 1.0
+  24:
+   Uri: '9c64b80c4aee4efea6f1874de8439dce#urn:ASPC474.asem.intra:UnifiedAutomation:UaDemoServerAnsiC'
+   ServerUri: 9c64b80c4aee4efea6f1874de8439dce
+  25:
+   Uri: '9c64b80c4aee4efea6f1874de8439dce#http://opcfoundation.org/UA/DI/'
+   ServerUri: 9c64b80c4aee4efea6f1874de8439dce
+  26:
+   Uri: '9c64b80c4aee4efea6f1874de8439dce#http://PLCopen.org/OpcUa/IEC61131-3/'
+   ServerUri: 9c64b80c4aee4efea6f1874de8439dce
+  27:
+   Uri: '9c64b80c4aee4efea6f1874de8439dce#http://www.unifiedautomation.com/DemoServer/'
+   ServerUri: 9c64b80c4aee4efea6f1874de8439dce
  Nodes:
  - File: DesignTimeNodes/CommDrivers/EthernetIPDriver/LogixStation/EthernetIPTagImporter.yaml
  - File: 'DesignTimeNodes/OPC-UA/OPCUAClient/OPCUATagImporter.yaml'

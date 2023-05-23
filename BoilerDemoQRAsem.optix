@@ -176,5 +176,17 @@ Project:
    Uri: 'urn:FTOptix:EthernetIP:Net'
    Module: FTOptix.EthernetIP.Net
    Version: 1.0
+  48:
+   Uri: '9c64b80c4aee4efea6f1874de8439dce#urn:ASPC474.asem.intra:UnifiedAutomation:UaDemoServerAnsiC'
+   ServerUri: 9c64b80c4aee4efea6f1874de8439dce
+  49:
+   Uri: '9c64b80c4aee4efea6f1874de8439dce#http://opcfoundation.org/UA/DI/'
+   ServerUri: 9c64b80c4aee4efea6f1874de8439dce
+  50:
+   Uri: '9c64b80c4aee4efea6f1874de8439dce#http://PLCopen.org/OpcUa/IEC61131-3/'
+   ServerUri: 9c64b80c4aee4efea6f1874de8439dce
+  51:
+   Uri: '9c64b80c4aee4efea6f1874de8439dce#http://www.unifiedautomation.com/DemoServer/'
+   ServerUri: 9c64b80c4aee4efea6f1874de8439dce
  Nodes:
  - File: Nodes/BoilerDemoQRAsem.yaml
